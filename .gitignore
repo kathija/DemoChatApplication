@@ -1,0 +1,21 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/APIGateway/APIGateway/bin/Debug/net6.0
+/APIGateway/APIGateway/obj
+/ChatWebApplication/bin/Debug/net6.0
+/ChatWebApplication/obj
+/Common/ChatApplication.Db/bin/Debug/net6.0
+/Common/ChatApplication.Db/obj
+/Common/ChatApplication.Model/bin/Debug/net6.0
+/Common/ChatApplication.Model/obj
+/Common/JwtTokenAuthenticationManager/bin/Debug/net6.0
+/Common/JwtTokenAuthenticationManager/obj
+/Microservices/AuthenticationWebApi/bin/Debug/net6.0
+/Microservices/AuthenticationWebApi/obj
+/Microservices/MessageWebAPi/bin/Debug/net6.0
+/Microservices/MessageWebAPi/obj
+/Microservices/UserManagementWebApi/bin/Debug/net6.0
+/Microservices/UserManagementWebApi/obj
